@@ -10,6 +10,9 @@
      animation-name: slide-in-from-top;
    }
 
+   .duration-200 {
+     animation-duration: 200ms;
+   }
    .duration-300 {
      animation-duration: 300ms;
    }
